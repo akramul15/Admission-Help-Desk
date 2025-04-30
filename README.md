@@ -17,7 +17,7 @@ Admission Help Desk (AHD) is a Java-based application designed to help students 
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/Akram0007/Admission-Help-Desk.git
+    git clone https://github.com/akramul15/Admission-Help-Desk.git
     cd Admission-Help-Desk
     ```
 
@@ -39,7 +39,7 @@ Admission Help Desk (AHD) is a Java-based application designed to help students 
 ## Hit the Star! ⭐
 If you are planning to use this repo for learning, please hit the star. Thanks!
 
-Authored by [Md. Akramul Islam](https://github.com/Akram0007).
+Authored by [Md. Akramul Islam](https://github.com/akramul15).
 
 
 
